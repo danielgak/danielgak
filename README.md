@@ -1,6 +1,4 @@
 ## 👋 Hello there! I’m @danielgak
-- 🌱 I’m currently learning solidity, with big interest in daps and defi!
-- 💞️ I’m looking foward to collaborate in any project that could bring me more crypto knowledge
 - 📫 Contact me in my ig account [@thisgak](https://www.instagram.com/thisgak/)
 
 <!---
